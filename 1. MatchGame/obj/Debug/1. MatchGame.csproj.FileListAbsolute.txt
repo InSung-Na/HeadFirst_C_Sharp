@@ -1,0 +1,15 @@
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\bin\Debug\_1.MatchGame.exe.config
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\bin\Debug\_1.MatchGame.exe
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\bin\Debug\_1.MatchGame.pdb
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\1. MatchGame.csprojAssemblyReference.cache
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\MainWindow.g.cs
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\App.g.cs
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\_1.MatchGame_MarkupCompile.cache
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\_1.MatchGame_MarkupCompile.lref
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\MainWindow.baml
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\_1.MatchGame.g.resources
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\_1.MatchGame.Properties.Resources.resources
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\1. MatchGame.csproj.GenerateResource.cache
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\1. MatchGame.csproj.CoreCompileInputs.cache
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\_1.MatchGame.exe
+C:\Users\NIS\source\repos\1. MatchGame\1. MatchGame\obj\Debug\_1.MatchGame.pdb
